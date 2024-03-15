@@ -1,0 +1,7 @@
+matplotlib
+opencv-python==4.5.4.58
+imutils
+numpy
+argparse
+tensorflow==2.10.1
+scikit-learn
